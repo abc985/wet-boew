@@ -34,6 +34,11 @@ wb.i18nDict = {
 	stop: "@stop@",
 	back: "@back@",
 	cancel: "@cancel@",
+    "sec-ago": "@sec-ago@",
+	"coup-secs": "@coup-secs@",
+	"secs-ago": {
+		mixin: "@secs-ago@"
+	},
 	"min-ago": "@min-ago@",
 	"coup-mins": "@coup-mins@",
 	"mins-ago": {
@@ -185,6 +190,7 @@ wb.i18nDict = {
 
 	/* Geomap */
 	"geo-mapctrl": "@geo-mapctrl@",
+    "geo-zsec": "@geo-zsec@",
 	"geo-zmin": "@geo-zmin@",
 	"geo-zmout": "@geo-zmout@",
 	"geo-zmwrld": "@geo-zmwrld@",
