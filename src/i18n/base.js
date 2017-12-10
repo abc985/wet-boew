@@ -51,8 +51,10 @@ wb.i18nDict = {
 	"days-ago": {
 		mixin: "@days-ago@"
 	},
-	yesterday: "@yesterday@",
-
+	yesterday: {
+		mixin: "@yesterday@"
+	},
+    
 	nxt: "@nxt@",
 	"nxt-r": "@nxt-r@",
 	prv: "@prv@",
